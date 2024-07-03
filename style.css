@@ -26,3 +26,7 @@ table {
     font-weight: bold;
     font-style: italic;
 }
+
+hr {
+    border: 1px solid black;
+}
